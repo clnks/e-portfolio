@@ -1,9 +1,9 @@
 # Hi 👋, I'm Clarissa
 
-🌱 I’m currently learning HTML, Python, Java<br><br>👨‍💻 All of my projects are available at https://clnks.github.io/e-portfolio/coming_soon.html<br>
+🌱 I’m currently learning HTML, Python, Java<br><br>👨‍💻 All of my projects are available at: https://clnks.github.io/e-portfolio/coming_soon.html<br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@clarissaankrah) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@clarissaankrah) 
 
 # 💻 Tech Stack:
