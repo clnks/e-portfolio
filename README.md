@@ -1,17 +1,16 @@
-<h1 align="center">Hi 👋, I'm Clarissa</h1>
-<h3 align="center">I'm an aspiring frontend developer and Msc Cyber Security student</h3>
+# Hi 👋, I'm Clarissa
 
-- 🌱 I’m currently learning **HTML, Python, Java**
+🌱 I’m currently learning HTML, Python, Java<br><br>👨‍💻 All of my projects are available at https://clnks.github.io/e-portfolio/coming_soon.html<br>
 
-- 👨‍💻 All of my projects are available at [https://clnks.github.io/e-portfolio/coming_soon.html](https://clnks.github.io/e-portfolio/coming_soon.html)
 
-- 📝 I regularly write articles on [https://medium.com/@clarissaankrah](https://medium.com/@clarissaankrah)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@clarissaankrah) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@clarissaankrah) 
 
-<h3 align="centre">Connect with me:</h3>
-<p align="centre">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/clarissaankrah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/clarissaankrah/" height="30" width="40" /></a>
-<a href="https://medium.com/@clarissaankrah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@clarissaankrah" height="30" width="40" /></a>
-</p>
+# 💻 Tech Stack:
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-<h3 align="centre">Languages and Tools:</h3>
-<p align="centre"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+[![](https://visitcount.itsvg.in/api?id=clnks&icon=0&color=12)](https://visitcount.itsvg.in)
