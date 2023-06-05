@@ -1,4 +1,4 @@
-# Hi 👋, I'm Clarissa
+# Hi, I'm Clarissa 👋
 
 🌱 I’m currently learning HTML & Java<br><br>👨‍💻 All of my projects are available at: https://clnks.github.io/e-portfolio/coming_soon.html<br>
 
