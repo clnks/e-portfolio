@@ -10,7 +10,7 @@ I'm an aspiring web developer studying a Master's in Cyber Security. I have a lo
 
 In this e-portfolio, I aim to showcase my skills, knowledge, and reflections during my cyber security degree. As an aspiring cyber security professional, I have dedicated my time to learning and implementing various techniques that will be of use during and after my studies.
 
-Within this repository, you will find a collection of exercises and refletive pieces and more.
+Within this repository, you will find a collection of exercises and reflective pieces and more.
 
 Each project is carefully documented, providing detailed explanations of the methodologies used, the challenges encountered, and the solutions implemented. By examining these projects, you will gain insights into my problem-solving abilities, technical aptitude and creativity.
 
