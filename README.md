@@ -1,4 +1,4 @@
-# Hi, I'm Clarissa 👋 Welcome to my e-Portfolio!
+# Welcome to my CyberSec e-Portfolio!
 
 🌱 I’m currently learning HTML & Java.<br><br>👨‍💻 All of my projects are available at: https://clnks.github.io/e-portfolio/coming_soon.html<br>
 
